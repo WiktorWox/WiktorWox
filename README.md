@@ -4,6 +4,7 @@
 - 💻 Programming languages I know:
   - ***Java***	⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ █████████░ expert
   - ***JavaScript*** ⠀⠀⠀⠀⠀⠀ ███████░░░ champion
+  - ***C++***              ███████░░░ champion
   - ***Python***⠀⠀⠀⠀⠀⠀⠀⠀⠀██░░░░░░░░ apprentice
   - ***Harlowe***⠀⠀⠀⠀⠀⠀⠀⠀█████░░░░░ veteran
 - 🫖 I love tea, mostly green, but I think yellow is also very good. I think yerba is also great but personally I'm not a big fan.
