@@ -1,6 +1,6 @@
 ## What about me...?
 - 👋 I'm *WiktorWox*
-- I'm just young Java and JavaScript programist who started making addons to *Minecraft Bedrock* for second edition of *KoronaSwiat* server ([here](https://github.com/WiktorWox/KoronaSwiat) is the link for a GitHub repo (project is abandoned)) in 2019. In 2021 i moved to Minecraft: *Java Edition*, by making the third edition of *KoronaSwiat* with *KoronaCore* mod ([here](https://github.com/WiktorWox/KoronaCore) is link for a repo), that is still in production.
+- I'm just Java, C++ and JavaScript programist who started making addons to *Minecraft Bedrock* for second edition of *KoronaSwiat* server ([here](https://github.com/WiktorWox/KoronaSwiat) is the link for a GitHub repo (project is abandoned)) in 2019. In 2021 i moved to Minecraft: *Java Edition*, by making the third edition of *KoronaSwiat* with *KoronaCore* mod ([here](https://github.com/WiktorWox/KoronaCore) is link for a repo), that is still in production.
 - 💻 Programming languages I know:
   - ***Java***	⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ █████████░ expert
   - ***JavaScript*** ⠀⠀⠀⠀⠀⠀ ███████░░░ champion
