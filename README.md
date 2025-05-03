@@ -1,6 +1,6 @@
 ## What about me...?
 - 👋 I'm *WiktorWox*
-- **I'm** just a programist who makes independent games (i also play indie games on [my channel](www.youtube.com/channel/UCPzSaKohpaC-vPd7XEdaKKg/))
+- **I'm** just a programist who makes independent games (i also play indie games on [my channel](https://www.youtube.com/channel/UCPzSaKohpaC-vPd7XEdaKKg))
 - **My story**: I started making addons for *Minecraft Bedrock* for the second edition of *KoronaSwiat* server ([here](https://github.com/WiktorWox/KoronaSwiat) is the link for a GitHub repo (project is abandoned)) in 2019. In 2021 i moved to Minecraft: *Java Edition*, by making the third edition of *KoronaSwiat* with [*KoronaCore* mod](https://github.com/WiktorWox/KoronaCore). But still i felt a bit limited by Minecraft. I moved to making my own games. Currently i'm developing [Scoutmaster]([https://github.com/WiktorWox/KoronaSwiat](https://github.com/WiktorWox/Scoutmaster)), a game about polish scouts, and one other project which i hope to show you soon!
 - 💻 Programming languages I know:
   - ***Java***	⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ █████████░ expert
