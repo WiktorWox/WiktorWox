@@ -1,20 +1,18 @@
 ## What about me...?
 - 👋 I'm *WiktorWox*
-- I'm just Java, C++ and JavaScript programist who started making addons to *Minecraft Bedrock* for second edition of *KoronaSwiat* server ([here](https://github.com/WiktorWox/KoronaSwiat) is the link for a GitHub repo (project is abandoned)) in 2019. In 2021 i moved to Minecraft: *Java Edition*, by making the third edition of *KoronaSwiat* with *KoronaCore* mod ([here](https://github.com/WiktorWox/KoronaCore) is link for a repo), that is still in production.
+- I'm just Java, C++ and JavaScript programist who started making addons to *Minecraft Bedrock* for second edition of *KoronaSwiat* server ([here](https://github.com/WiktorWox/KoronaSwiat) is the link for a GitHub repo (project is abandoned)) in 2019. In 2021 i moved to Minecraft: *Java Edition*, by making the third edition of *KoronaSwiat* with *KoronaCore* mod ([here](https://github.com/WiktorWox/KoronaCore) is link for a repo).
 - 💻 Programming languages I know:
   - ***Java***	⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ █████████░ expert
   - ***JavaScript*** ⠀⠀⠀⠀⠀⠀ ███████░░░ champion
-  - ***C++***              ███████░░░ champion
+  - ***C++*** ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ███████░░░ champion
   - ***Python***⠀⠀⠀⠀⠀⠀⠀⠀⠀██░░░░░░░░ apprentice
   - ***Harlowe***⠀⠀⠀⠀⠀⠀⠀⠀█████░░░░░ veteran
-- 🫖 I love tea, mostly green, but I think yellow is also very good. I think yerba is also great but personally I'm not a big fan.
+- 🫖 I love tea.
 - 🇵🇱 I'm Polish (from Poland) but I will have no problem communicating with you in English!
 - 🧩 I'm into:
   - 🎮 Indie games. I love *Hollow Knight*, *Papers please*, *RimWorld* and more!
   - 🎲 RPG games (*Warhammer*, *Call of Cthulhu*)
-  - ♟ Chess. I'd love to play with you on *Chess.com*
   - 🎨 Art. Pixelart, kinda painting and drawing. I attend art school.
-  - 🎹 Composing music
 - ✉️ You can contact with me by:
   - 📬 Mail - wiktor.vox@gmail.com
   - 📱 Discord - WiktorWox#2137
